@@ -1,6 +1,6 @@
-using LatLong
+using LatLongDF
 using Test
 
-@testset "LatLong.jl" begin
+@testset "LatLongDF.jl" begin
     # Write your tests here.
 end
