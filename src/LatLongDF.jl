@@ -2,7 +2,7 @@ module LatLongDF
 
 using DataFrames
 
-export distanceKm
+export distanceKm, LatLongS
 
 const pid180 = pi / 180
 
